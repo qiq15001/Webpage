@@ -19,22 +19,7 @@ date: "2018-05-12T15:00:00Z"
 date_end: "#"
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: "2019-10-29T00:00:00Z"
 
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -44,8 +29,6 @@ slides: ""
 projects:
 - c-project
 
-# Enable math on this page?
-math: false
 ---
 
 
