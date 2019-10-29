@@ -14,6 +14,8 @@ address:
 
 view: 3
 
+abstract: Multi-stage transition model is playing an important role in dementia studies. Since death is a significant source of missing data in longitudinal epidemiological studies on elderly individuals, we consider four stages: normality, memory-impaired intermediate, dementia and death without dementia. To analyze longitudinal data, we develop the likelihood function based on a first order Markov chain model consisting of transitional probabilities between stages. Different from the typical illness-death model, we construct a reversible transition model between normality and memory-impaired intermediate. We use Kolmogorov’s backward equations to derive the probability of transition and ordinal logistic regression to investigate what covariates have significant influence on the transition.
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2018-05-12T15:00:00Z"
