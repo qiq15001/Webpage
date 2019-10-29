@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,57 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Consultant"
+  company = "Boehringer - Ingelheim"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Connecticut"
+  date_start = "2019-11-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Conduct exploratory analyses based on simulation or historical data to address regulatory authorities' comments and questions.
+  * Participate in BI meetings on various topics related to developing strategies and clinical trial designs,reviewing research plans and publications.
+  * Conduct research to determine appropriate endpoints to select optimal dose for CKD Phase II dose finding clinical trials.
+  * Conduct research for potential type I error inflation if using Chronic slope to assess treatment effect.
+  * Conduct research for change point model with survival time adjustment.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "Albert Einstein College of Medicine"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Connecticut"
+  date_start = "2017-08-24"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Evaluate the prediction accuracy of a new classification system of memory impairment for Alzheimer’s disease.
+  * Investigate significant features affecting the prediction for Alzheimer’s disease.
+  * Estimate transitional probabilities among the stages of memory impairment and investigate significant features on transition.
+  * Explore the relationship between memory impairment test and AD neuropathologic change.
+  """
+
+
+[[experience]]
+  title = "Biostatistics & Data Sciences Intern"
+  company = "Boehringer - Ingelheim"
+  company_url = ""
+  location = "Connecticut"
+  date_start = "2019-05-29"
+  date_end = "2019-08-23"
+  description = """Proposed and validated random change point model of estimating two/three intersecting lines."""
+
+[[experience]]
+  title = "Statistical Consultant"
+  company = "University of Connecticut"
+  company_url = ""
+  location = "Connecticut"
+  date_start = "2017-08-24"
+  date_end = "2019-05-23"
+  description = """
+  Presented workshops 'Variable Selection with Demos in R' and 'Survival Study Design and Analysis'. Provided full project service, online question service and walk-in service.
+  """
 
 +++

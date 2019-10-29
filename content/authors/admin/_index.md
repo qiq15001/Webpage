@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Qi Qi
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Connecticut
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Survival Analysis, Bayesian Methods, Longitudinal Data Analysis, Joint Modeling, Stochastic Models, Data Visualization, Machine Learning, Data Mining, Statistical Computing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Survival Analysis
+- Bayesian Methods
+- Longitudinal Data Analysis
+- Stochastic Models
+- Data Visualization
+- Machine Learning
+- Statistical Computing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics
+    institution: University of Connecticut
+    year: 2017
+  - course: MS in Statistics
+    institution: University of Connecticut
+    year: 2015
+  - course: BS in Statistics
+    institution: Remin University of China
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +48,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:qi.2.qi@uconn.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/qi-qi-a5b241117/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/qiq15001
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Qi Qi is a Ph.D candidate at the department of Statistics, University of Connecticut. Her research interests include Survival Analysis, Bayesian Methods, Longitudinal Data Analysis, Joint Modeling, Stochastic Models, Data Visualization, Machine Learning, Data Mining, Statistical Computing. She is working as research consultant at Boehringer - Ingelheim and research assistant at Albert Einstein College of Medicine.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
