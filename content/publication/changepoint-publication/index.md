@@ -19,8 +19,6 @@ publication: "A random change point model using stopping time of Poisson process
 publication_short: ""
 
 
-view:4
-
 projects:
 - f-project
 ---
