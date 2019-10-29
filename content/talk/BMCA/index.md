@@ -16,11 +16,11 @@ abstract: Multi-stage transition model is playing an important role in dementia 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2018-05-12T15:00:00Z"
-date_end: "2018-05-12T15:30:00Z"
+date_end: "#"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-10-29T00:00:00Z"
 
 authors: []
 tags: []
@@ -28,19 +28,6 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: ''
-  focal_point: Right
-
-links:
-- icon: ""
-  icon_pack: ""
-  name: ""
-  url: ""
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
