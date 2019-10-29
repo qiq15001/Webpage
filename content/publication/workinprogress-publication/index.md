@@ -1,5 +1,5 @@
 ---
-title: "Working Papers"
+title: "Work in Progress"
 authors:
 - admin
 date: "2019-10-29T00:00:00Z"
@@ -18,9 +18,9 @@ date: "2019-10-29T00:00:00Z"
 
 
 projects:
-- b-project
-- g-project
+- c-project
+- a-project
 ---
 
-* Qi Qi, Lynn Kuo, Susan Resnick, Ellen Grober. Bayesian Joint Modeling of Longitudinal Ordinal Outcomes and Time-to-Event Data.
-* Qi Qi, Guanyu Hu. Bayesian Mixture Model and Determination of Root Cause Frequency.
+* Qi Qi, Lynn Kuo, Susan Resnick, Ellen Grober. Multi-stage Stochastic Transitional Models with Application to Baltimore Longitudinal Study of Aging.
+* Qi Qi, Lynn Kuo, Sinyu Shen. Zero-inflated Poisson Mixture Model with Application to High-dimensional Microbiome Data.
