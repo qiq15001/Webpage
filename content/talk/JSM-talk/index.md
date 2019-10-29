@@ -1,7 +1,7 @@
 ---
 title: Interactive Visualization of Housing Condition Changes in NYC
 event: Joint Statistical Meeting (JSM) 2019
-event_url:""
+
 
 
 location: Colorado Civention Center
@@ -18,31 +18,9 @@ abstract: I propose to address the forth research question of NYCHVS in the ASA 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-08-28T14:00:00Z"
-# date_end: "#"
 all_day: false
 
-publishDate: "2019-10-29T00:00:00Z"
 
-
-authors: []
-tags: []
-
-featured: false
-
-image:
-  caption: ""
-  focal_point: 
-
-links:
-- icon: 
-  icon_pack: 
-  name: 
-  url: ""
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

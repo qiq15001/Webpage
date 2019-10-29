@@ -1,7 +1,7 @@
 ---
 title:  A Multi-Stage Stochastic Model in the Analysis of Longitudinal Data
 event: Conference on Bayesian Modeling, Computation and Applications 2018
-event_url:""
+
 
 
 location: University of Connecticut
@@ -18,31 +18,9 @@ abstract: Multi-stage transition model is playing an important role in dementia 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2018-05-12T15:00:00Z"
-# date_end: "#"
 all_day: false
 
-publishDate: "2019-10-29T00:00:00Z"
 
-
-authors: []
-tags: []
-
-featured: false
-
-image:
-  caption: ""
-  focal_point: 
-
-links:
-- icon: 
-  icon_pack: 
-  name: 
-  url: ""
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
