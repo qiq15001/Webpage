@@ -73,3 +73,5 @@ user_groups:
 
 Qi Qi is a Ph.D candidate at the department of Statistics, University of Connecticut. Her research interests include Survival Analysis, Bayesian Methods, Longitudinal Data Analysis, Joint Modeling, Stochastic Models, Data Visualization, Machine Learning, Data Mining, Statistical Computing. She is working as research consultant at Boehringer - Ingelheim and research assistant at Albert Einstein College of Medicine.
 
+Qi enjoys swimming, playing badminton and painting. She works out regularly and sometimes go hiking. Qi loves her cat a lot. Her cat, Hera, is a lovely and sweet tuxedo cat and was born on July 2, 2017. It is her happiest moment when the cat sleeps in her arms every night.
+
