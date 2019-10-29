@@ -12,7 +12,7 @@ address:
   postcode: '80202'
   country: United States
 
-
+view: 3
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

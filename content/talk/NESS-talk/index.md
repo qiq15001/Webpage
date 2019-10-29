@@ -12,7 +12,7 @@ address:
   country: United States
 
 
-
+view: 3
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-05-16T14:00:00Z"
