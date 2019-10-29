@@ -1,7 +1,7 @@
 ---
 title: Interactive Visualization of Housing Condition Changes in NYC
 event: Joint Statistical Meeting (JSM) 2019
-event_url: ""
+event_url:
 
 
 location: Colorado Civention Center
