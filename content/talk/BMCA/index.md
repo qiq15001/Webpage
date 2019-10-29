@@ -1,7 +1,7 @@
 ---
 title:  A Multi-Stage Stochastic Model in the Analysis of Longitudinal Data
 event: Conference on Bayesian Modeling, Computation and Applications 2018
-event_url:
+event_url:""
 
 
 location: University of Connecticut
@@ -29,6 +29,16 @@ tags: []
 
 featured: false
 
+image:
+  caption: ""
+  focal_point: 
+
+links:""
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

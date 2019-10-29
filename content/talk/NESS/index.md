@@ -1,7 +1,7 @@
 ---
 title: Predicting Alzheimer's Disease Using a New Classification System Based on Objective Memory Impairment Assessment
 event: The 33rd New England Statistics Symposium (NESS) 2019
-event_url: 
+event_url: ""
 
 
 location: Hilton Hartford
@@ -28,6 +28,18 @@ authors: []
 tags: []
 
 featured: false
+
+image:
+  caption: ""
+  focal_point: 
+
+links:""
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
 
 projects:
 - b-project
