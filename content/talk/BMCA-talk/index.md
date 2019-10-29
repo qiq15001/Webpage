@@ -12,7 +12,7 @@ address:
   country: United States
 
 
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Multi-stage transition model is playing an important role in dementia studies. Since death is a significant source of missing data in longitudinal epidemiological studies on elderly individuals, we consider four stages: normality, memory-impaired intermediate, dementia and death without dementia. To analyze longitudinal data, we develop the likelihood function based on a first order Markov chain model consisting of transitional probabilities between stages. Different from the typical illness-death model, we construct a reversible transition model between normality and memory-impaired intermediate. We use Kolmogorov’s backward equations to derive the probability of transition and ordinal logistic regression to investigate what covariates have significant influence on the transition."
 
 
 view: 3
@@ -21,7 +21,7 @@ view: 3
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-05-12T16:00Z"
+date: "2018-05-12T16:00:00Z"
 all_day: false
 
 
@@ -36,6 +36,5 @@ projects:
 
 ---
 
-Abstract: Multi-stage transition model is playing an important role in dementia studies. Since death is a significant source of missing data in longitudinal epidemiological studies on elderly individuals, we consider four stages: normality, memory-impaired intermediate, dementia and death without dementia. To analyze longitudinal data, we develop the likelihood function based on a first order Markov chain model consisting of transitional probabilities between stages. Different from the typical illness-death model, we construct a reversible transition model between normality and memory-impaired intermediate. We use Kolmogorov’s backward equations to derive the probability of transition and ordinal logistic regression to investigate what covariates have significant influence on the transition.
 
 
