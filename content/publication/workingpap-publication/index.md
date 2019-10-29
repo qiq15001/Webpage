@@ -1,5 +1,5 @@
 ---
-title: "Papers under review"
+title: "Working Papers"
 authors:
 - admin
 
@@ -19,8 +19,9 @@ publication_short: ""
 
 
 projects:
-- f-project
+- b-project
+- g-project
 ---
 
-* Yaoshi Wu, Wansuk Choi, Qi Qi, Zhichao Sun, Qiqi Deng, Brian Jin. A random change point model using stopping time of Poisson process for estimating two intersecting lines.
-* Yaoshi Wu, Qi Qi. A random two-change-point model using stopping time of Poisson process and estimation function for estimating three intersecting lines.
+* Qi Qi, Lynn Kuo, Susan Resnick, Ellen Grober. Bayesian Joint Modeling of Longitudinal Ordinal Outcomes and Time-to-Event Data.
+* Qi Qi, Guanyu Hu. Bayesian Mixture Model and Determination of Root Cause Frequency.
