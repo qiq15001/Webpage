@@ -17,7 +17,7 @@ view: 3
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-05-16"
+date: "2019-05-16T16:00Z"
 all_day: false
 
 

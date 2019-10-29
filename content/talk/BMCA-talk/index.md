@@ -3,7 +3,6 @@ title:  A Multi-Stage Stochastic Model in the Analysis of Longitudinal Data
 event: Conference on Bayesian Modeling, Computation and Applications 2018
 
 
-
 location: University of Connecticut
 address:
   street: 363-367 Fairfield Way
@@ -12,13 +11,17 @@ address:
   postcode: '06279'
   country: United States
 
+
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+
+
 view: 3
 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-05-12"
+date: "2018-05-12T16:00Z"
 all_day: false
 
 
