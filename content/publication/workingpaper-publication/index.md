@@ -20,7 +20,11 @@ date: "2019-09-29T00:00:00Z"
 projects:
 - b-project
 - g-project
+- f-project
 ---
 
 * Qi Qi, Lynn Kuo, Susan Resnick, Ellen Grober. Bayesian Joint Modeling of Longitudinal Ordinal Outcomes and Time-to-Event Data.
 * Qi Qi, Guanyu Hu. Bayesian Mixture Model and Determination of Root Cause Frequency.
+
+* Yaoshi Wu, Wansuk Choi, Qi Qi, Zhichao Sun, Qiqi Deng, Brian Jin. A random change point model using stopping time of Poisson process for estimating two intersecting lines.
+* Yaoshi Wu, Qi Qi. A random two-change-point model using stopping time of Poisson process and estimation function for estimating three intersecting lines.
