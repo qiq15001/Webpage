@@ -33,13 +33,13 @@ education:
   courses:
   - course: PhD in Statistics
     institution: University of Connecticut
-    year: 2017
+    year: 2020 (expected)
   - course: MS in Statistics
     institution: University of Connecticut
-    year: 2015
+    year: 2017
   - course: BS in Statistics
     institution: Remin University of China
-    year: 2011
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
