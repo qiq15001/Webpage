@@ -1,5 +1,5 @@
 ---
-title: Baayesian Zero-inflated Mixture Model for Multidimensional Microbiome Data
+title: Bayesian Zero-inflated Mixture Model for Multidimensional Microbiome Data
 
 # View.
 #   1 = List
