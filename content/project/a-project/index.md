@@ -1,5 +1,5 @@
 ---
-title: Zero-inflated Poisson Mixture Model for Multidimensional Microbiome Data
+title: Baayesian Zero-inflated Mixture Model for Multidimensional Microbiome Data
 
 # View.
 #   1 = List
@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-Construct zero-inflated Poisson mixture model and apply machine learning approach to cluster species and investigate effects from different treatments.
+Construct Bayesian zero-inflated mixture model and apply machine learning approach to cluster subjects and investigate effects from different treatments.
