@@ -24,7 +24,9 @@ interests:
 - Survival Analysis
 - Bayesian Methods
 - Longitudinal Data Analysis
+- Joint Modeling
 - Stochastic Models
+- Multi-stage Analysis
 - Data Visualization
 - Machine Learning
 - Statistical Computing
