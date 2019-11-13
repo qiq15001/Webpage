@@ -40,7 +40,7 @@ education:
     institution: University of Connecticut
     year: 2017
   - course: BS in Statistics
-    institution: Remin University of China
+    institution: Renmin University of China
     year: 2015
 
 # Social/Academic Networking
