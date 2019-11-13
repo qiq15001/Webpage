@@ -23,4 +23,4 @@ projects:
 ---
 
 * Qi Qi, Lynn Kuo, Susan Resnick, Ellen Grober. Multi-stage Stochastic Transitional Models with Application to Baltimore Longitudinal Study of Aging.
-* Qi Qi, Lynn Kuo, Sinyu Shen. Zero-inflated Poisson Mixture Model with Application to High-dimensional Microbiome Data.
+* Qi Qi, Lynn Kuo, Sinyu Shen. Bayesian Zero-inflated Mixture Model with Application to High-dimensional Microbiome Data.
