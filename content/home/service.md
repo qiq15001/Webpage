@@ -38,14 +38,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
-[[item]]
-  organization = "BI-Uconn Summer Academy"
-  organization_url = ""
-  title = "Volunteer"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-08-10"
-  date_end = ""
-  description = ""
+
 
 +++
