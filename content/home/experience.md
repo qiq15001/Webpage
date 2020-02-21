@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Boehringer - Ingelheim"
   company_url = ""
   location = "Connecticut"
-  date_start = "2019-11-01"
+  date_start = "2019-12-31"
   date_end = ""
   description = """
   Responsibilities include:
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Connecticut"
   date_start = "2017-08-24"
-  date_end = ""
+  date_end = "2019-12-31"
   description = """
   Responsibilities include:
   
