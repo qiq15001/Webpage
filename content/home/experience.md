@@ -27,11 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Conduct exploratory analyses based on simulation or historical data to address regulatory authorities' comments and questions.
-  * Participate in BI meetings on various topics related to developing strategies and clinical trial designs,reviewing research plans and publications.
-  * Conduct research to determine appropriate endpoints to select optimal dose for CKD Phase II dose finding clinical trials.
   * Conduct research for potential type I error inflation if using Chronic slope to assess treatment effect.
-  * Conduct research for change point model with survival time adjustment.
+  * Conduct Segmented Emax model for exposure-response analysis for Phase II dose finding study.
   """
 
 [[experience]]
