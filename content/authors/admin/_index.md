@@ -14,7 +14,7 @@ role: Statistical Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Genentech, A Member of Roche
+- name: Genentech, A Member of the Roche Group
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
