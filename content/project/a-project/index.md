@@ -1,5 +1,5 @@
 ---
-title: Bayesian Zero-inflated Mixture Model for Multidimensional Microbiome Data
+title: A Bayesian Transitional Model for High Dimensional Data with Application to Human Microbiome Project
 
 # View.
 #   1 = List
@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-Construct Bayesian zero-inflated mixture model and apply machine learning approach to cluster subjects and investigate effects from different treatments.
+Conduct a Bayesian transitional model to perform variable selection for high dimensional microbiome data. 

@@ -1,5 +1,5 @@
 ---
-title:  A Multi-stage Stochastic Transitional Model in The Analysis of Longitudinal Data
+title:  A Bayesian Multistage Model for Joint Transitional Data
 
 # View.
 #   1 = List
@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-Construct the stochastic multi-stage model to estimate transition probability among five stages from a new classification of memory impairment and establish reversible model.
+Construct a Bayesian stochastic multi-stage model to estimate transitional probabilities and evaluate the correlation among different transitions.

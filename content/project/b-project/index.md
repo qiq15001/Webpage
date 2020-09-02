@@ -1,5 +1,5 @@
 ---
-title: Bayesian Joint Models of Longitudinal Ordinal Outcomes and Time-to-event Data
+title: A Bayesian Joint Model of Longitudinal Ordinal Outcomes and Time-to-event Data
 
 # View.
 #   1 = List
