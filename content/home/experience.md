@@ -25,6 +25,9 @@ date_format = "Jan 2006"
   date_start = "2020-08-24"
   date_end = ""
   description = """
+  Responsibilities include:
+  
+  * Work on QT study, Phase II and Phase III studies of Fenebrutinib for multiple sclerosis.
     """
 
 
