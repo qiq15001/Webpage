@@ -27,7 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Work on QT study, Phase II and Phase III studies of Fenebrutinib for multiple sclerosis.
+  * Lead QT study, rBA study, Phase II study of Fenebrutinib for Multiple Sclerosis.
+  * Support Phase III study of Fenebrutinib for Multiple Sclerosis.
+  * Support API study of Crenezumab for Alzheimer’s Disease.
     """
 
 
