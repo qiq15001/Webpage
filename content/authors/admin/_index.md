@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Qi Qi is working as a Statistical Scientist at Genentech. She received her PhD in Statistics from University of Connecticut. Her research interests include Survival Analysis, Bayesian Methods, Longitudinal Data Analysis, Joint Modeling, Stochastic Models, Data Visualization, Machine Learning, Data Mining, Statistical Computing. She has worked as a research fellow at Boehringer - Ingelheim and research assistant at Albert Einstein College of Medicine.
+Qi Qi is working as a Senior Statistical Scientist at Genentech. She received her PhD in Statistics from University of Connecticut. Her research interests include Survival Analysis, Bayesian Methods, Longitudinal Data Analysis, Joint Modeling, Stochastic Models, Data Visualization, Machine Learning, Data Mining, Statistical Computing. She has worked as a research fellow at Boehringer - Ingelheim and research assistant at Albert Einstein College of Medicine.
 
 Qi enjoys swimming, playing badminton and painting. She works out regularly and sometimes goes hiking. Qi loves her cat a lot. Her cat, Hera, is a lovely and sweet tuxedo cat and was born on July 2, 2016. It is her happiest moment when the cat sleeps in her arms every night.
 
