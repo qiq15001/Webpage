@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Being study lead statistician for multiple clinical trials.
   * Collaborate with different functions, including clinical science, operation, safety, pharmacokinetics, biomarker, imagining science, etc.
-  * Author study documents (protocol, statistical analysis plan, clinical study report, etc.), being responsible for study design & sample size calculation, conduct statistical analyses, QC statistical outputs.
+  * Author study documents (protocol, statistical analysis plan, clinical study report, conferences/publications, etc.), being responsible for study design & sample size calculation, conduct statistical analyses, QC statistical outputs.
   * Lead a successful study read-out ([Press Release](https://www.gene.com/media/press-releases/14992/2023-05-16/genentechs-btk-inhibitor-fenebrutinib-si)).
     """
 
