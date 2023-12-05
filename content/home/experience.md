@@ -27,9 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Lead QT study, rBA study, Phase II study of Fenebrutinib for Multiple Sclerosis.
-  * Support Phase III study of Fenebrutinib for Multiple Sclerosis.
-  * Support API study of Crenezumab for Alzheimer’s Disease.
+  * Being study lead statistician for multiple clinical trials.
+  * Collaborate with different functions, including clinical science, operation, safety, pharmacokinetics, biomarker, imagining science, etc.
+  * Author study documents (protocol, statistical analysis plan, clinical study report, etc.), conduct statistical analyses, QC statistical outputs.
+  * Lead a successful study read-out ([Press Release](https://www.gene.com/media/press-releases/14992/2023-05-16/genentechs-btk-inhibitor-fenebrutinib-si)).
     """
 
 
